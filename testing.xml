@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="BannerBuzzPriceSuite">
+    <test name="PriceTest">
+        <classes>
+            <class name="tests.ProductPriceTestNG" />
+        </classes>
+    </test>
+</suite>

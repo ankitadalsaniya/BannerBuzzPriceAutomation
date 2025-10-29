@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.ProductPriceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.58 s -- in tests.ProductPriceTest
